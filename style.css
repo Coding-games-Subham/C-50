@@ -1,0 +1,85 @@
+.head{
+      
+  background-color:lawngreen;
+  border:solid;
+   }
+
+   .note{
+     background-color: red;
+     border: dotted;
+   }
+
+.grid {
+  background: darkred;
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: last baseline;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+.camel {
+  border: 4px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:rgb(50, 169, 205);
+}
+
+
+.chameleon {
+  border: 4px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:rgb(50, 169, 205);
+}
+
+.cicada {
+  border: 4px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color:rgb(50, 169, 205);
+}
+
+.panda {
+  border: 4px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color:rgb(50, 169, 205);
+}
+
+.pigeon {
+  border: 4px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:rgb(50, 169, 205);
+}
+
+.teddy {
+  border: 4px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:rgb(50, 169, 205);
+}
+
+* {
+  grid: 2ch;
+}
